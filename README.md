@@ -1,19 +1,19 @@
-## 🚀 Contact / Social
+### 🚀 Contact / Social
 [![Linkedin Badge](https://img.shields.io/badge/jamilservicos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jamilservicos/)](https://www.linkedin.com/in/jamilservicos/)
 [![Facebook Badge](https://img.shields.io/badge/jamilservicos-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=http://fb.com/jamilservicos/)](http://fb.com/jamilservicos/)
 [![Telegram Badge](https://img.shields.io/badge/juliojamil-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/juliojamil/)](https://t.me/juliojamil/)
 ![Gmail Badge](https://img.shields.io/badge/jamilservicos@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 
-## ⚡ GitHub Stats
+### ⚡ GitHub Stats
 [![top](https://github-readme-stats-by-anuraghazra.vercel.app/api/top-langs/?username=jamilservicos&layout=compact&locale=pt-br&hide_title=true)](https://github.com/jamilservicos?tab=repositories)
 
-## 🗒 My open source projects
+### 🗒 My open source projects
 [![@jamilservices/namespace-helper](https://github-readme-stats-by-anuraghazra.vercel.app/api/pin/?username=jamilservicos&repo=jamilservices-namespace-helper)](https://github.com/jamilservicos/jamilservices-namespace-helper)
 [![@jamilservices/types-helper](https://github-readme-stats-by-anuraghazra.vercel.app/api/pin/?username=jamilservicos&repo=jamilservices-types-helper)](https://github.com/jamilservicos/jamilservices-types-helper)  
 
 
-## 👩‍💻💻 Technologies & Tools
+### 👩‍💻💻 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -42,11 +42,16 @@
 ![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 
-## 💲 Cryptocurrency
+### 🪙 Cryptocurrency
 ![Bitcoin](https://img.shields.io/badge/1BrKxKsspVs3uR1ctAPfudLY38Tdw6yU3R-000000?style=for-the-badge&label=BTC&color=F7931A&labelColor=black)
 ![Dogecoin](https://img.shields.io/badge/DEj13YitqbqkWAidQVMHe6KHpgJeVP34jN-C2A633?style=for-the-badge&label=DOGE&color=C2A633&labelColor=black)
 ![Tron](https://img.shields.io/badge/DEj13YitqbqkWAidQVMHe6KHpgJeVP34jN-f60614?style=for-the-badge&label=TRX&color=f60614&labelColor=black)
 ![Waves](https://img.shields.io/badge/3PQA4gjdQJcSzHhxZLbdhoWjkjrFEXmTqqw-1c55ce?style=for-the-badge&label=WAVES&color=1c55ce&labelColor=black)
+
+  
+
+### :coffee: If you like what I do, maybe consider buying me a coffee
+<a href="https://www.buymeacoffee.com/jamilservices" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
