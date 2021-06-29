@@ -54,6 +54,9 @@
 <a href="https://www.buymeacoffee.com/jamilservices" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
+### 🎁 If you like what I do, you might consider giving financial support or a donation.
+<a href="https://opencollective.com/support-jamilservices" target="_blank"><img alt="Open Collective backers and sponsors" src="https://img.shields.io/opencollective/all/support-jamilservices?color=green&logo=opencollective"></a>
+
 
 <!--
 ### Hi there 👋
