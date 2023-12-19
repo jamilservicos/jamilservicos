@@ -1,17 +1,19 @@
 ### 🚀 Contact / Social
 [![Linkedin Badge](https://img.shields.io/badge/jamilservicos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jamilservicos/)](https://www.linkedin.com/in/jamilservicos/)
 [![Facebook Badge](https://img.shields.io/badge/jamilservicos-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=http://fb.com/jamilservicos/)](http://fb.com/jamilservicos/)
-[![Telegram Badge](https://img.shields.io/badge/juliojamil-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/juliojamil/)](https://t.me/juliojamil/)
-![Gmail Badge](https://img.shields.io/badge/jamilservicos@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+[![Telegram Badge](https://img.shields.io/badge/juliojamil-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/juliojamil/)](https://t.me/juliojamil/)   
+![Gmail Badge](https://img.shields.io/badge/jamilservicos@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white) 
+![Gmail Badge](https://img.shields.io/badge/jamilservices@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 ### ⚡ GitHub Stats
-[![top](https://github-readme-stats-by-anuraghazra.vercel.app/api/top-langs/?username=jamilservicos&layout=compact&locale=pt-br&hide_title=true)](https://github.com/jamilservicos?tab=repositories)
+[![top](https://github-readme-stats-by-anuraghazra.vercel.app/api/top-langs/?username=jamilservicos&layout=compact&locale=pt-br&hide_title=true)](https://github.com/jamilservicos?tab=repositories) 
 
 ### 🗒 My open source projects
-[![@jamilservices/namespace-helper](https://github-readme-stats-by-anuraghazra.vercel.app/api/pin/?username=jamilservicos&repo=jamilservices-namespace-helper)](https://github.com/jamilservicos/jamilservices-namespace-helper)
-[![@jamilservices/types-helper](https://github-readme-stats-by-anuraghazra.vercel.app/api/pin/?username=jamilservicos&repo=jamilservices-types-helper)](https://github.com/jamilservicos/jamilservices-types-helper)  
+[![@jamilservices/namespace-helper](https://github-readme-stats-by-anuraghazra.vercel.app/api/pin/?username=jamilservicos&repo=jamilservices-namespace-helper)](https://github.com/jamilservicos/jamilservices-namespace-helper) 
+[![@jamilservices/types-helper](https://github-readme-stats-by-anuraghazra.vercel.app/api/pin/?username=jamilservicos&repo=jamilservices-types-helper)](https://github.com/jamilservicos/jamilservices-types-helper)   
 
+[![@jamilservices/custom-class-type-and-definition](https://github-readme-stats-by-anuraghazra.vercel.app/api/pin/?username=jamilservicos&repo=jamilservices-custom-class-type-and-definition)](https://github.com/jamilservicos/jamilservices-custom-class-type-and-definition)
 
 ### 👩‍💻💻 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,14 +42,6 @@
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-
-
-### 🪙 Cryptocurrency
-![Bitcoin](https://img.shields.io/badge/1BrKxKsspVs3uR1ctAPfudLY38Tdw6yU3R-000000?style=for-the-badge&label=BTC&color=F7931A&labelColor=black)
-![Dogecoin](https://img.shields.io/badge/DEj13YitqbqkWAidQVMHe6KHpgJeVP34jN-C2A633?style=for-the-badge&label=DOGE&color=C2A633&labelColor=black)
-![Tron](https://img.shields.io/badge/DEj13YitqbqkWAidQVMHe6KHpgJeVP34jN-f60614?style=for-the-badge&label=TRX&color=f60614&labelColor=black)
-![Waves](https://img.shields.io/badge/3PQA4gjdQJcSzHhxZLbdhoWjkjrFEXmTqqw-1c55ce?style=for-the-badge&label=WAVES&color=1c55ce&labelColor=black)
-
   
 
 ### :coffee: If you like what I do, maybe consider buying me a coffee
