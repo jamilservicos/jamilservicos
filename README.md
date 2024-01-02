@@ -1,3 +1,5 @@
+[![](https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/jamilservicos)    
+
 ### 🚀 Contact / Social
 [![Linkedin Badge](https://img.shields.io/badge/jamilservicos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jamilservicos/)](https://www.linkedin.com/in/jamilservicos/)
 [![Facebook Badge](https://img.shields.io/badge/jamilservicos-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=http://fb.com/jamilservicos/)](http://fb.com/jamilservicos/)
@@ -43,13 +45,6 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
   
-
-### :coffee: If you like what I do, maybe consider buying me a coffee
-<a href="https://www.buymeacoffee.com/jamilservices" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-### 🎁 If you like what I do, you might consider giving financial support or a donation.
-<a href="https://opencollective.com/support-jamilservices" target="_blank"><img alt="Open Collective backers and sponsors" src="https://img.shields.io/opencollective/all/support-jamilservices?color=green&logo=opencollective"></a>
 
 
 <!--
