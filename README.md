@@ -9,8 +9,9 @@ I don't know my gods, but I believe in them. 🧚
 Whether you will get to know my best side or not is up to you. 😇 😈
 
 Projects in progress: 🧠 🚧 🛠️ 👷
-- [![Logo SimplyBuilder](https://avatars.githubusercontent.com/u/158239464?s=24&v=4 "SimplyBuilder")](https://github.com/SimplyBuilder)  https://github.com/SimplyBuilder (https://simplybuilder.jamilservices.com)
-- [![Logo Little Owle](https://avatars.githubusercontent.com/u/172572223?s=24&v=4 "Little Owle")](https://github.com/LittleOwle)  https://github.com/LittleOwle (https://littleowle.jamilservices.com)
+- <a href="https://github.com/SimplyBuilder"><img src="https://avatars.githubusercontent.com/u/158239464?s=24&v=4" align="center" alt="Logo SimplyBuilder" /></a> <span>https://github.com/SimplyBuilder</span> <span>(https://simplybuilder.jamilservices.com)</span>
+- <a href="https://github.com/LittleOwle"><img src="https://avatars.githubusercontent.com/u/172572223?s=24&v=4" align="center" alt="Logo Little Owle" /></a>  <span>https://github.com/LittleOwle</span> <span>(https://littleowle.jamilservices.com)</span>
+
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/jamilservicos)    
 
