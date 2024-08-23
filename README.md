@@ -9,13 +9,15 @@ I don't know my gods, but I believe in them. 🧚
 Whether you will get to know my best side or not is up to you. 😇 😈
 
 Projects in progress: 🧠 🚧 🛠️ 👷
-- <a href="https://github.com/SimplyBuilder"><img src="https://avatars.githubusercontent.com/u/158239464?s=24&v=4" align="center" alt="Logo SimplyBuilder" /></a> <span>https://github.com/SimplyBuilder</span> <span>(https://simplybuilder.jamilservices.com)</span>
-- <a href="https://github.com/LittleOwle"><img src="https://avatars.githubusercontent.com/u/172572223?s=24&v=4" align="center" alt="Logo Little Owle" /></a>  <span>https://github.com/LittleOwle</span> <span>(https://littleowle.jamilservices.com)</span>
+- <a href="https://github.com/SimplyBuilder"><img src="https://avatars.githubusercontent.com/u/158239464?s=24&v=4" align="center" title="Logo SimplyBuilder" /></a> <span>https://github.com/SimplyBuilder</span> <span>(https://simplybuilder.jamilservices.com)</span>
+- <a href="https://github.com/LittleOwle"><img src="https://avatars.githubusercontent.com/u/172572223?s=24&v=4" align="center" title="Logo Little Owle" /></a>  <span>https://github.com/LittleOwle</span> <span>(https://littleowle.jamilservices.com)</span>
 
+<br />
+My Company profile: 👔   
+https://github.com/jamilservices    
+<br /><br />    
 
-[![](https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/jamilservicos)    
-
-
+<a href="https://github.com/sponsors/jamilservicos"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" title="Sponsor jamilservicos" height="24"></a>
 
 
 <!--
